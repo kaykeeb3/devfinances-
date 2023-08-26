@@ -293,3 +293,15 @@ footer {
     gap: 2rem;
   }
 }
+
+/* ============= RESPONSIVE 2 ============= */
+@media (min-width: 400px) {
+  html {
+    font-size: 80.5%;
+  }
+  
+table tbody td {
+  background: #FFF;
+  padding: 1rem 1.2rem;
+ }
+}
