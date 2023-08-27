@@ -1,6 +1,6 @@
 <h1 align="center">Dev.Finances</h1>
 
-<p align="center">O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída <br/>
+<p align="center">O dev.finances é uma aplicação de controle financeiro, onde o usuário tem a possibilidade de cadastrar e excluir transações e ver o saldo de entrada e saída <br/>
 </p>
 
 <br>
@@ -14,10 +14,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- javascript 
-- html
-- css
-- git e github
+- Javascript 
+- HTML 5 
+- CSS
+- Git e Github
 
 ## 💻 Projeto
 
