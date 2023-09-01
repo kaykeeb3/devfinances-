@@ -1,6 +1,6 @@
 <h1 align="center">Dev.Finances</h1>
 
-<p align="center">O dev.finances é uma aplicação de controle financeiro, onde o usuário tem a possibilidade de cadastrar e excluir transações e ver o saldo de entrada e saída <br/>
+<p align="center">O Dev.finances é uma aplicação de gerenciamento financeiro que oferece aos usuários a capacidade de registrar e remover transações, além de acompanhar o saldo de entrada e saída de recursos de forma eficiente.<br/>
 </p>
 
 <br>
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto **dev.finances** trata-se de um aplicativo de controle financeiro desenvolvido durante a **Maratona Discover** da **Rocketseat**
+O **projeto dev.finances** é um aplicativo de gestão financeira que foi concebido durante a **Maratona Discover** promovida pela **Rocketseat**.
 
 - [Visite o projeto online](https://devfinances-theta.vercel.app/)
 
